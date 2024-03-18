@@ -1,5 +1,4 @@
-## Oh hello 👋
-
+## Hello there 👋
 
 
 ### About me:
@@ -26,10 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
 ---
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisamfp&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisamfp)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alisamfp&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisamfp&layout=compact) 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisamfp)](https://github.com/anuraghazra/github-readme-stats)
 <!--
