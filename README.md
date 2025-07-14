@@ -2,10 +2,10 @@
 
 
 ### About me:
-  - 👩‍💻 Full stack software engineer with a focus on user experience
-  - 👩‍🎓 Currently working towards a bachelor's degree in graphic information technology
+  - 👩‍💻 Front end developer + graphic designer
+  - 👩‍🎓 B.S. in Graphic Info Tech with a focus on full stack web development
   - :accessibility: Proponent of free and open source code, intuitive design, and accessibility
-  - 🐈 Loud mouthed lover of cats, code, and data
+  - 🐈 Loud mouthed lover of cats, creativity, and code.
 
 ---
 
@@ -17,28 +17,15 @@
 
 ### Libraries and Languages:
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alisamfp&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisamfp&layout=compact) 
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisamfp)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AlisamfP/AlisamfP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
